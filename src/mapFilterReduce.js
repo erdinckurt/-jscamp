@@ -41,4 +41,3 @@ function sayiTopla(number) {
 }
 sayiTopla(sayi)
 console.log(sayi)
-
